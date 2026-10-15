@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Syed Shahriar Jahan Mahi 👋
 
-<!--
-**shahriar-jahan/shahriar-jahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🎓 **Education:** Undergraduate CSE Student at **Leading University, Sylhet**
+- 💻 **Currently Learning:** C, Structured Programing & Problem Solving
+- 🎯 **Goals:** Aspiring Software Engineer | Deeply interested in **Artificial Intelligence & Machine Learning**
+- 🛠️ **Tools & Environment:** VS Code, Git, GitHub, macOS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Mahi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriar-jahan&show_icons=true&theme=radial)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-jahan&layout=compact&theme=radial)
+
+---
+
+### 📫 Connect with Me
+- 💼 **LinkedIn:** https://www.linkedin.com/in/syed-shahriar-jahan-mahi-9b2190381
+- 📧 **Email:** shahriarmahi965@gmail.com
